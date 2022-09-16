@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Sample GO API
+  tidtle: Sample GO API
   version: "1.0"
   x-logo:
     url: ""
